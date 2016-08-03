@@ -1,0 +1,14 @@
+layout_spectrum: 0.6188820973038673
+typography_spectrum: 0.5250864054542035
+color:
+  brandStrength: 0.4609191871713847
+  lightness: 0.29735881253145635
+  saturation: 0.3116552457213402
+  rhythmicContrast: 0.05031445575878024
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Slash
